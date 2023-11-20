@@ -15,4 +15,5 @@ code {
 .square {
   height: 21px;
   width: 24px;
+  margin: 1px;
 }
